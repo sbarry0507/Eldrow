@@ -1,7 +1,3 @@
-''' These are from https://www.thefreedictionary.com/5-letter-words.htm
-''' Use for the CS-175/CS-501A/DS-502 Eldrow group project.
-''' jchung, 3/2022
-'''
 about
 above
 abuse

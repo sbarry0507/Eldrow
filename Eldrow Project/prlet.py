@@ -1,14 +1,5 @@
-# prlet.py
-#
-# CS-175/CS-501A/DS-502, Spring 2022
 from letters import *
 
-# function prlet - print one line of a letter using one of the letter modules 
-#                  in the letters package, followed by a '\t' and no newline
-# input1 - the letter to print
-# input2 - the character to use to print the letter
-# input3 - the line to print
-#
 def prlet(letter, char, line):
     if letter.lower() == 'a': print(a(char, line), '\t', end='')
     elif letter.lower() == 'b': print(b(char, line), '\t', end='')
